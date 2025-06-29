@@ -91,19 +91,6 @@ titanic-eda-project/
 
 ---
 
-## 📘 Sample Visualizations
-
-Here are a few plots generated during the analysis:
-
-### 📌 Survival Rate by Class and Sex
-
-![survival by pclass sex](./eda_images/survival_by_pclass_sex.png)
-
-### 📌 Correlation Matrix
-
-![correlation matrix](./eda_images/correlation_matrix.png)
-
----
 
 ## 📈 Final Report
 
