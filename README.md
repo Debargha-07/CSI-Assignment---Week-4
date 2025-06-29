@@ -28,7 +28,7 @@ The analysis includes univariate, bivariate, and multivariate insights and is pr
 titanic-eda-project/
 ├── train.csv                 # Dataset
 ├── eda_train.py             # EDA analysis script
-├── eda_report.py            # Script to generate a PDF report
+├── pdf_report.py            # Script to generate a PDF report
 ├── eda_images/              # All saved plots and visualizations
 ├── EDA_Report_Titanic.pdf   # Final report (generated from Python)
 └── README.md                # Project documentation
